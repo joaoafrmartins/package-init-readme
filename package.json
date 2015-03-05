@@ -1,0 +1,26 @@
+{
+  "name": "package-init-readme",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "description": "Package Init Readme",
+  "keywords": [
+    "package",
+    "init",
+    "readme"
+  ],
+  "scripts": {
+    "test": "mocha --reporter spec --compilers coffee:coffee-script/register ./spec"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "kosher": ""
+  },
+  "homepage": "https://github.com/joaoafrmartins/package-init-readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/package-init-readme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/package-init-readme/issues"
+  }
+}
