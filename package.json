@@ -22,5 +22,6 @@
   },
   "bugs": {
     "url": "https://github.com/joaoafrmartins/package-init-readme/issues"
-  }
+  },
+  "license": "MIT"
 }
